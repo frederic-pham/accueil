@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-![matrix](/matrix.jpg)  <!-- Remplacez cette URL par le lien de votre image de présentation -->
+![matrix](matrix.jpg)  <!-- Remplacez cette URL par le lien de votre image de présentation -->
 
 ## À propos de moi
 
