@@ -1,6 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-![matrix](https://github.com/frederic-pham/accueil/img/matrix.jpg)  <!-- Remplacez cette URL par le lien de votre image de présentation -->
+<img src="https://github.com/frederic-pham/img/matrix.jpg" alt="matrix" width="300" />
+ <!-- Remplacez cette URL par le lien de votre image de présentation -->
 
 ## À propos de moi
 
