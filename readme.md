@@ -5,7 +5,7 @@
 
 ## À propos de moi
 
-Bonjour ! Je suis Mr PHAM Frédéric, un technicien support passionné par la cybertsecurité Avec 22 années d'expérience dans [vos technologies principales], je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et contribuer à des projets innovants.
+Bonjour ! Je suis Mr PHAM Frédéric, un technicien support passionné par la cybertsecurité Avec 22 années d'expérience dans le support technique de niveau 2, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et contribuer à des projets innovants.
 
 ### Compétences clés :
 - Langages de programmation : initiation à Python.
