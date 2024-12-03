@@ -8,7 +8,7 @@
 Bonjour ! Je suis Mr PHAM Frédéric, un technicien support passionné par la cybertsecurité Avec 22 années d'expérience dans [vos technologies principales], je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et contribuer à des projets innovants.
 
 ### Compétences clés :
-- Langages de programmation : [Liste de langages, par exemple : Python, JavaScript, C++, etc.]
+- Langages de programmation : initiation à Python.
 - Frameworks et outils : [Liste de frameworks, par exemple : React, Django, Node.js, etc.]
 - Gestion de version : Git, GitHub
 - Autres compétences : [Liste d'autres compétences pertinentes, par exemple : DevOps, bases de données, etc.]
